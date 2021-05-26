@@ -4,4 +4,4 @@ We have used Elbow method and Silhoutte score technique ,K-means and Agglomerati
 
 Here, is our dataset(data.csv) and prediction test dataset(test.csv).
 
-Here, is also a detailed report of our project.1234
+Here, is also a detailed report of our project.
